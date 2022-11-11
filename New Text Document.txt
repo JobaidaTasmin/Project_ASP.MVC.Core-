@@ -1,0 +1,37 @@
+X-Ray
+
+Abdominal x-ray.
+Barium x-ray.
+Bone x-ray.
+Chest x-ray.
+Dental x-ray.
+Extremity x-ray.
+Hand x-ray.
+Joint x-ray.
+
+USG
+
+Ultrasound - Abdomen
+Ultrasound - Breast
+Ultrasound - Carotid
+Ultrasound - General 
+
+Blood Test
+
+Blood cholesterol test.
+Blood culture.
+Blood gases test
+Blood glucose (blood sugar) tests
+Blood typing. 
+Cancer blood tests.
+Chromosome testing
+
+Endoscopy
+
+Bronchoscopy.
+Colonoscopy.
+Cystoscopy.
+Laparoscopy.
+Laryngoscopy.
+Mediastinoscopy.
+Thoracoscopy.
